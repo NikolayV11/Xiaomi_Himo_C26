@@ -1,5 +1,5 @@
 $(function () {
-  $(".bike-slider").slick({
+  $(".bike-slider, .slider__items").slick({
     arrows: false, // убирает кнопки вперёд назад
     dots: true, // сколько слайдев столько и кнопок
     fade: true, // переход наложения
